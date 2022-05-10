@@ -1,0 +1,34 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Redmi",
+      "price": 15000,
+      "category": "mobile"
+    },
+    {
+      "name": "Boat9010",
+      "price": 900,
+      "category": "headphone",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "mobile"
+    },
+    {
+      "name": "headphone",
+      "id": 2
+    },
+    {
+      "name": "Accesories ",
+      "id": 3
+    },
+    {
+      "name": "Story Books",
+      "id": 4
+    }
+  ]
+}
